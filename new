@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<!-- jsn_metro_pro 2.0.2 -->
+<html prefix="og: http://ogp.me/ns#" lang="de-de" dir="ltr">
+<head>
+	<base href="https://ema-bonn.de/index.php/service/neuigkeiten" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ernst-Moritz-Arndt-Gymnasium Bonn" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Neuigkeiten</title>
+	<link href="/index.php/service/neuigkeiten?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php/service/neuigkeiten?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/jsn_metro_pro/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://cdn.jsdelivr.net/npm/simple-line-icons@2.4.1/css/simple-line-icons.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_k2/css/k2.css?v=2.10.1&b=20191126" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css?58b8b001afe4a27f3165ff8adf174470" rel="stylesheet" type="text/css" />
+	<link href="/plugins/content/jw_allvideos/jw_allvideos/tmpl/Classic/css/template.css?v=6.1.0" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?58b8b001afe4a27f3165ff8adf174470" rel="stylesheet" type="text/css" />
+	<link href="/components/com_imageshow/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap.min.css?58b8b001afe4a27f3165ff8adf174470" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-responsive.min.css?58b8b001afe4a27f3165ff8adf174470" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-extended.css?58b8b001afe4a27f3165ff8adf174470" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/print.css" rel="stylesheet" type="text/css" media="Print" />
+	<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/template_pro.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/colors/white.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/styles/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/jsn_iconlinks.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/layouts/jsn_wide.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/layouts/jsn_mobile.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/jsn_social_icons.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/jsn_metro_pro/css/ema.css" rel="stylesheet" type="text/css" />
+	<link href="/libraries/videobox/css/videobox.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	div.jsn-modulecontainer ul.menu-mainmenu ul,
+	div.jsn-modulecontainer ul.menu-mainmenu ul li {
+		width: 205px;
+	}
+	div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-left: 206px;
+		margin-left: 205px\9;
+	}
+	#jsn-pos-toolbar div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-right: 206px;
+		margin-right: 205px\9;
+		margin-left : auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul,
+	div.jsn-modulecontainer ul.menu-sidemenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		right: -201px;
+		right: -200px\9;
+	}
+	body.jsn-direction-rtl div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		left: -201px;
+		left: -200px\9;
+		right: auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
+		margin-left: 201px;
+		margin-left: 200px\9;
+	} .pagination>li>a, .pagination>li>span{color:#005723;text-shadow:0 0 10px #84d1a4} .pagination>li.active>a, .pagination>li.active>span, .pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{color:#005723;background-color:#84d1a4} .vb_video_cont, .vb_video_cont a, .vb_video_frame{color:#005723} #vbiClose:focus, #vbiClose:hover, .vb_video_cont a:focus, .vb_video_cont a:focus .vb_thub_wrap .vb-icon-play, .vb_video_cont a:hover, .vb_video_cont a:hover .vb_thub_wrap .vb-icon-play, .vb_video_cont:focus, .vb_video_cont:focus .vb_thub_wrap .vb-icon-play, .vb_video_cont:hover, .vb_video_cont:hover .vb_thub_wrap .vb-icon-play{color:#84d1a4} #vbiWrap{color:#005723} .vb_slider_outer .vb_slider_next:focus, .vb_slider_outer .vb_slider_next:hover, .vb_slider_outer .vb_slider_prev:focus, .vb_slider_outer .vb_slider_prev:hover{color:#84d1a4} .vb_slider_outer{color:#005723} #vbCloseLink:focus, #vbCloseLink:hover, .vjs-big-play-button:focus, .vjs-big-play-button:hover, .vjs-fullscreen-control:hover, .vjs-play-control:hover, .vjs-volume-menu-button:focus, .vjs-volume-menu-button:hover{color:#84d1a4}
+/*# sourceMappingURL=overrides.css.map */
+
+	</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
+
+	<!-- html5.js and respond.min.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js"></script>
+	<![endif]-->
+	<!--Logineo Flyout -->    
+      
+<link rel="stylesheet" type "text/css" href="https://idp.logineo.nrw.schule/styles.css">
+      
+</head>
+<body id="jsn-master" class="jsn-textstyle-custom jsn-color-white jsn-direction-ltr jsn-responsive jsn-mobile jsn-joomla-30  jsn-com-content jsn-view-category jsn-layout-blog jsn-itemid-1541">
+	<a name="top" id="top"></a>
+		<div id="jsn-page">
+			<div id="jsn-header">
+			<div id="jsn-header-top">
+				<div id="jsn-headerright" class="pull-right">
+									</div>
+				<div class="clearbreak"></div>
+			</div>
+			<div id="jsn-header-bottom">
+				<div id="jsn-header-bottom-inner">
+					<div id="jsn-logo" class="pull-left">
+					<a href="https://www.ema-bonn.de" title="Ernst-Moritz-Arndt-Gymnasium Bonn"><img src="/images/logo/ema_header8.png" alt="Ernst-Moritz-Arndt-Gymnasium Bonn" id="jsn-logo-desktop" /></a>					</div>
+					<div id="jsn-menu">
+																							<div id="jsn-pos-mainmenu">
+								<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menü</span>
+<ul class="menu-mainmenu menu-iconmenu">
+<li  class="first jsn-icon-home"><a  href="/index.php" title="Home..." >
+	<span>
+		<span class="jsn-menutitle">Home</span><span class="jsn-menudescription">Home...</span>	</span>
+</a></li><li  class="jsn-icon-statistics"><a  href="/index.php/ueber-uns" title="Personen..." >
+	<span>
+		<span class="jsn-menutitle">Über uns</span><span class="jsn-menudescription">Personen...</span>	</span>
+</a></li><li  class="jsn-icon-doc"><a  href="/index.php/lernen" title="Fächer..." >
+	<span>
+		<span class="jsn-menutitle">Lernen</span><span class="jsn-menudescription">Fächer...</span>	</span>
+</a></li><li  class="jsn-icon-joomla"><a  href="/index.php/ags" title="Aktivitäten..." >
+	<span>
+		<span class="jsn-menutitle">Aktivitäten</span><span class="jsn-menudescription">Aktivitäten...</span>	</span>
+</a></li><li  class="jsn-icon-cart"><a  href="/index.php/angebot" title="Kultur, Beratung ..." >
+	<span>
+		<span class="jsn-menutitle">Angebote</span><span class="jsn-menudescription">Kultur, Beratung ...</span>	</span>
+</a></li><li  class="active last jsn-icon-download blue"><a  href="/index.php/service" title="Pläne, Kontakt ..." >
+	<span>
+		<span class="jsn-menutitle">Service</span><span class="jsn-menudescription">Pläne, Kontakt ...</span>	</span>
+</a></li></ul><div class="clearbreak"></div></div></div></div>
+							</div>
+																			<span id="jsn-desktopswitch">
+								<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_metro_pro_','mobile','no'); return false;"></a>
+							</span>
+							<span id="jsn-mobileswitch">
+								<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_metro_pro_','mobile','yes'); return false;"></a>
+							</span>
+																</div></div>
+
+			</div>
+		</div>
+		<div class="clearbreak"></div>
+		<div id="jsn-body">
+			<div id="jsn-body-inner">
+								<div id="jsn-content" class="jsn-hasleft ">
+						<div id="jsn-content_inner" class="row-fluid">
+							
+							<div id="jsn-maincontent" class="span9 order2 offset3">
+								<div id="jsn-maincontent_inner">
+								<div id="jsn-centercol">
+									<div id="jsn-centercol_inner">
+														<div id="jsn-breadcrumbs">
+											<div id="jsn-pos-breadcrumbs" class="">
+<ul class="breadcrumb ">
+<li><a href="/index.php" class="pathway">Home</a><span class="divider"></span></li><li><a href="/index.php/service" class="pathway">Service</a></li><li><span class="divider"></span><span>Neuigkeiten</span></li></ul>	
+</div>
+										</div>
+													
+				
+										<div id="jsn-mainbody-content" class=" jsn-hasmainbody  row-fluid">
+															<div id="mainbody-content-inner" class="span12 order1 ">
+																<div id="jsn-mainbody">
+									<div id="system-message-container">
+	</div>
+
+									<div class="blog">
+		
+		
+		
+		
+		
+					
+		
+		
+					<div class="items-more">
+			<div class="items-more">
+<ul class="nav nav-tabs nav-stacked">
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/973-weihnachten-2020">
+			Weihnachten 2020</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/972-abschied-von-unserem-ema-hausmeister-gregor-baur">
+			Abschied von unserem EMA-Hausmeister: Gregor Baur</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/971-das-neue-ema-logo">
+			Das neue EMA-Logo</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/969-inception-time-und-ein-weihnachtsgruss-der-blaeser-des-ema-sinfonieorchesters-ema-blaeserensembles">
+			INCEPTION ("Time") und ein vorweihnachtlicher Gruß der Bläser des EMA-Sinfonieorchesters&EMA-Bläserensembles</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/966-schulbetrieb-in-corona-zeiten-in-der-woche-vor-den-weihnachtsferien-2020-21-ergaenzung">
+			Schulbetrieb in Corona-Zeiten in der Woche vor den Weihnachtsferien 2020/21 (Ergänzung)</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/965-angepasster-schulbetrieb">
+			Informationen zum angepassten Schulbetrieb ab Montag</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/967-musikalische-weihnachtsgruesse-der-junior-bigband">
+			Musikalische Weihnachtsgrüße der Junior-BigBand</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/lernen/mint-bereich/mint-aktuell/958-mint-ec-camps-im-1-hj-21">
+			Anmeldephase endet bald: MINT-EC-Camps im 1.HJ 2021</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/964-ein-kleiner-gruss-zu-nikolaus">
+			Ein kleiner Gruß zu Nikolaus</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/963-vorlesewettbewerb-sophie-6a-gewinnt-schulentscheid">
+			Vorlesewettbewerb: Sophie (6a) gewinnt Schulentscheid</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/lernen/mint-bereich/mint-aktuell/962-schuelerlabor-cammp-rwth-aachen">
+			Schülerlabor CAMMP RWTH Aachen</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/lernen/mint-bereich/mint-aktuell/961-schuelerwettbewerb">
+			Schülerwettbewerb</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/elternbriefe/960-bitte-um-unterstuetzung-im-schulalltag">
+			Bitte um Unterstützung im Schulalltag</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/959-unterrichtsfreie-tage-am-21-und-22-dezember-2020">
+			Unterrichtsfreie Tage am 21. und 22. Dezember 2020</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/957-sv-nikolaus-aktion">
+			SV Nikolaus-Aktion </a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/956-neue-ema-pullis-jetzt-bestellen">
+			Neue EMA-Pullis: Jetzt bestellen!</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/955-bonner-hochschultage-fuer-schuelerinnen-und-schueler">
+			Bonner Hochschultage für Schülerinnen und Schüler</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/954-akteulle-informationen-der-schulleitung">
+			Aktuelle Informationen der Schulleitung</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/elternbriefe/951-brief-der-schulleitung-ende-der-herbstferien">
+			Brief der Schulleitung Ende der Herbstferien</a>
+	</li>
+	<li>
+		<a class="blogsection" href="/index.php/service/neuigkeiten/elternbriefe/950-brief-der-schulleitung-vor-den-herbstferien">
+			Brief der Schulleitung vor den Herbstferien</a>
+	</li>
+</ul>
+</div>		</div>
+		
+					<div class="cat-children">
+														<div class="first">
+									<h3 class="page-header item-title"><a href="/index.php/service/neuigkeiten/elternbriefe">
+				Elternbrief</a>
+				
+										</h3>
+
+									
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/service/neuigkeiten/89-faecher">
+				Fächer</a>
+				
+								<a href="#category-89" data-toggle="collapse" data-toggle="button" class="btn btn-mini pull-right"><span class="icon-plus"></span></a>
+										</h3>
+
+									
+						<div class="collapse fade" id="category-89">
+							</div>
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/ueber-uns/schuelervertretung">
+				Schülervertretung</a>
+				
+										</h3>
+
+									
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/ueber-uns/auszeichnungen">
+				Auszeichnungen</a>
+				
+										</h3>
+
+									
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/angebot/beratung/eoteo">
+				eoteo</a>
+				
+										</h3>
+
+									
+					</div>
+										<div>
+									<h3 class="page-header item-title"><a href="/index.php/angebot/weimar">
+				Schulbrücke Weimar</a>
+				
+										</h3>
+
+										<div class="category-desc">
+					<table border="0">
+<tbody>
+<tr>
+<td>
+<p>Die <strong><a href="http://www.nationalstiftung.de">Deutsche Nationalstiftung</a> </strong>(begründet von Helmut Schmidt in Verbindung mit der ZEIT-Stiftung) hatte 2002 erstmalig vier Leistungskurse der Stufe 12 eingeladen, eine internationale Begegnungswoche in Weimar als<strong> „<a href="http://www.nationalstiftung.de/schulbruecke_weimar.php">SchulBrücke</a>"</strong> im Rahmen des Weimarer Dreiecks (Frankreich-Polen-Deutschland) durchzuführen.</p>
+</td>
+<td style="text-align: center;" valign="middle"><img src="data:image/png;base64,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" alt="" width="227" height="80" />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Die Schüler der Deutschen Schule Paris, des John-Lennon-Gymnasiums Berlin-Mitte, der Willy-Brandt-Schule Warschau und des <strong>Ernst-Moritz-Arndt-Gymnasiums aus Bonn</strong> (quasi als Vertreter Westdeutschlands) waren dazu eingeladen worden. Die Schülerinnen und Schüler des Ernst-Moritz-Arndt-Gymnasiums Bonn nehmen jährlich gerne an der „SchulBrücke Weimar" teil, weil dieses einwöchige Seminar eine willkommene und fruchtbare Abwechslung zum schulischen Lernen darstellt.</p>
+<hr id="system-readmore" />
+<p>Die interessanten und anspruchsvollen Themen aus den Bereichen Geschichte, Philosophie und Literatur der Klassik und Romantik motivieren die Teilnehmer in hohem Maße zu Selbstständigkeit, Kreativität und großem persönlichen Engagement. Reizvoll ist darüber hinaus die Tatsache, dass junge Menschen aus verschiedenen Städten und Ländern zusammenkommen, um an einem gemeinsamen Projekt zu arbeiten. Die Teilnehmer der Herbst-SchulBrücke kommen außer von unserer Schule aus Bozen, Hummené (Ostslowakei), Leipzig und von den deutschen Schulen Paris und Warschau. Neben der niveauvollen Auseinandersetzung mit historischen, kulturellen oder politischen Sachthemen ist die internationale Begegnung (Weimarer Dreieck) ein besonders wertvoller Bestandteil des Projekts. Denn dadurch bietet sich den Teilnehmern eine seltene und wichtige Gelegenheit, sich im Prozess des gemeinsamen Lebens und Arbeitens mit Gleichaltrigen zu öffnen. Dies kann einen entscheidenden Beitrag zu ihrer Persönlichkeitsfindung leisten. Wenn Sie weitere Fragen zur "SchulBrücke Weimar" haben können Sie sich an <span id="cloak7ccd885f48d475b7606154e7a275f49b">Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!</span> (<span id="cloakf11371072ab145dde1fabff3eeabf831">Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!</span> oder <span id="cloak5d0ee2996e72edab259c52f9125bad3d">Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!</span><a href="mailto:kraemer@ema-bonn.de"></a>) wenden, oder sich über folgenden Link informieren: <a href="http://www.nationalstiftung.de/schulbruecke_weimar.php"> </a><a href="http://www.nationalstiftung.de/schulbruecke_weimar.php">http://www.nationalstiftung.de/schulbruecke_weimar.php</a></p>				</div>
+						
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/angebot/ausland">
+				Austauschprogramm</a>
+				
+										</h3>
+
+										<div class="category-desc">
+					<p><span style="font-size: 12pt;"><strong><span style="line-height: 115%;">Fahrtenkonzept – Internationaler Austausch</span></strong></span></p>
+<p style="line-height: 150%;"><span style="font-size: 10pt;"><strong><span style="line-height: 150%;">I. Austauschangebote</span></strong></span></p>
+<table style="border-collapse: collapse; width: 681px; height: 296px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 91px; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong><span style="line-height: 115%;">Stufen</span></strong></p>
+</td>
+<td style="width: 173px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Name</strong></p>
+</td>
+<td style="width: 140px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Partner am EMA</strong></p>
+</td>
+<td style="width: 143px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>EMA beim Partner</strong></p>
+</td>
+<td style="width: 79px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Dauer</strong></p>
+</td>
+<td style="width: 92px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Verkehrs-</strong></p>
+<p style="line-height: 115%;"><strong>mittel</strong></p>
+</td>
+<td style="width: 119px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Kosten</strong></p>
+</td>
+<td style="width: 71px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Anzahl</strong></p>
+</td>
+<td style="width: 115px; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;"><strong>Koordination</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">7 (8)</p>
+<p style="line-height: 115%;">Latein</p>
+</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Scambio Culturale Roma - Bonn</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Frühling zw.</p>
+<p style="line-height: 115%;">03/05</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Herbst zw.</p>
+<p style="line-height: 115%;">09/11</p>
+</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">je 7 T.</p>
+</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Flug</p>
+</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Flug + max. 200 €</p>
+</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">20-28</p>
+</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Overländer</p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">8</p>
+<p style="line-height: 115%;">Frz. ab 6</p>
+</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Échange franco-allemand Barentin</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fühling/</p>
+<p style="line-height: 115%;">Sommer</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fühling/</p>
+<p style="line-height: 115%;">Sommer</p>
+</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">je 10 T.</p>
+</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Bus</p>
+</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">ca. 250 €</p>
+</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">ca. 25</p>
+</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fachschaft F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">EF</p>
+</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Josef-Pilsudski-Lyzeum, Gdynia/Polen</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Mi. bis Mi. vor Osterferien</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Mi. bis Mi. vor Herbstferien</p>
+</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">je 8 T.</p>
+</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Flug</p>
+</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">230 €</p>
+</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">15-20</p>
+</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Strempel und Altmann</p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">EF</p>
+</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">USA (bisher nicht im Schulprogramm)</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fühling/</p>
+<p style="line-height: 115%;">Sommer</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fühling/</p>
+<p style="line-height: 115%;">Sommer</p>
+</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">je 3 W.</p>
+</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Flug</p>
+</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">1000 €</p>
+</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">ca. 25</p>
+</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Fachschaft E</p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">6-Q2</p>
+<p style="line-height: 115%;">Musiker</p>
+</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Italien, Citadella, Musikensembles</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">unregelmäßig</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">Schüller</p>
+</td>
+</tr>
+<tr>
+<td style="width: 91px; border-width: medium 1pt 1pt; border-style: none solid solid; border-right: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 173px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">(England: Es wird eine Partnerschule gesucht!)</p>
+</td>
+<td style="width: 140px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">
+<p style="line-height: 115%;">wünschenswert!</p>
+</td>
+<td style="width: 143px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 79px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 92px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 119px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 71px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+<td style="width: 115px; border-width: medium 1pt 1pt medium; border-style: none solid solid none; padding: 0cm 5.4pt;" valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="margin-bottom: 4pt; text-align: justify; line-height: 150%;">Auslandsfahrten mit dem Ziel der kulturellen Begegnung verstehen sich als besondere pädagogische Angebote der Schule, auf die kein Anspruch besteht. Ein jährliches Zustandekommen kann nicht garantiert werden. Wenn sich mehr Interessenten für eine Fahrt melden, als berücksichtigt werden können, richtet sich die Auswahl nach folgenden Kriterien:</p>
+<p style="text-align: justify; line-height: 150%;"><span style="font-size: 10pt;"><strong><span style="line-height: 150%;">II. Teilnahmekriterien für Fahrten mit Familienunterkunft </span></strong></span></p>
+<p style="text-align: justify;">Melden sich mehr Interessenten für eine Fahrt, als teilnehmen können, richtet sich die Auswahl nach folgenden Kriterien:</p>
+<p style="text-align: justify; line-height: normal;"><strong>1. Gutes Sozialverhalten</strong></p>
+<p>Es beinhaltet u. a.:</p>
+<ul>
+<li>Der begleitende Lehrer muss sich auf den Austauschteilnehmer jederzeit verlassen können.</li>
+<li>Der Austauschschüler sollte sich als Botschafter verstehen.</li>
+<li>Der Austauschschüler sollte sich als verantwortungsvoll, engagiert, hilfsbereit und teamfähig erwiesen haben.</li>
+</ul>
+<p style="text-align: justify; line-height: normal;"><strong>2. Prinzipielle Bereitschaft, Motivation und Flexibilität</strong></p>
+<ul>
+<li>Der Austauschschüler muss bereit sein, sich flexibel und offen auf einen Austauschpartner, dessen Familie und ein neues kulturelles Umfeld einzulassen, von seinen Gewohnheiten Abstriche zu machen und eigene Bedürfnisse auch einmal zurückzustecken.</li>
+<li>Der Bewerber sollte bei der Anmeldung eine kurze Begründung seines Teilnahmewunsches verfassen.</li>
+</ul>
+<p style="text-align: justify; line-height: normal;"><strong>3. Angemessene allgemeine Leistungen sowie Interesse für das jeweilige Fach bzw. eine entsprechende</strong> <strong>musikalische Vorbereitung</strong></p>
+<ul>
+<li>Der Austauschschüler sollte insgesamt stabile Leistungen zeigen, da er Unterrichtsausfall und versäumten Stoff eigenständig nacharbeiten muss.</li>
+<li>Eine schlechte Note im Fach, das dem Austausch zugrunde liegt, ist nicht automatisch ein Ausschlussgrund.</li>
+<li>Der Austauschschüler sollte ein besonderes Interesse an der Kultur und Sprache des Gastlandes bzw. am Thema des Austauschs zeigen.</li>
+</ul>
+<p style="text-align: justify; text-indent: 0cm; line-height: normal;"><strong>4. Möglichst proportionale Berücksichtigung von Jungen und Mädchen</strong></p>
+<p style="text-align: justify; line-height: normal;">Das Verhältnis der Anzahl von Jungen und Mädchen muss den Möglichkeiten des Gastlandes entsprechen und soll sich ansonsten möglichst nach dem Verhältnis der angemeldeten Mädchen und Jungen richten.</p>
+<p style="text-align: justify; line-height: normal;"><strong>5. Möglichst proportionale Berücksichtigung nach den Anmeldungen aus Parallelklassen (außer EF und Ensembles)</strong></p>
+<p style="text-align: justify;">Dieses Kriterium ist nachrangig zu 1. - 4.</p>
+<p style="text-align: justify; line-height: normal;">Die Reihenfolge der Kriterien entspricht einer Rangordnung, von der in Einzelfällen in Verantwortung der begleitenden Lehrkräfte abgewichen werden kann. Über die Eignung der angemeldeten Schüler entscheiden die Koordinatoren in Absprache mit Fach- und Klassenlehrern. Bleiben nach Berücksichtigung dieser Kriterien mehr Bewerber als freie Plätze, entscheidet das Los.</p>
+<p style="text-align: justify; line-height: 150%;"><span style="font-size: 10pt;"><strong><span style="line-height: 150%;">III. Rahmenbedingungen</span></strong></span></p>
+<p style="text-align: justify; line-height: normal;"><strong>1. Schüler und Familien</strong></p>
+<ul>
+<li>Die Austauschschüler und ihre Familien verpflichten sich, ihren Gast wie ein zusätzliches Familienmitglied zu integrieren, zu verpflegen und ihm Einblicke in die deutsche Kultur und deutsche Lebensweise zu ermöglichen.</li>
+<li>Die Teilnehmer verpflichten sich, versäumte Unterrichtsinhalte eigenständig nachzuholen. Sie müssen damit rechnen, dass zeitnah nach dem Austausch Arbeiten und Tests geschrieben werden.</li>
+<li>In der Regel gibt es keine Reiserücktrittsversicherung. Kann ein angemeldeter Schüler aus gesundheitlichen oder persönlichen Gründen (oder beim Rom-Austausch wegen Nichtversetzung) nicht teilnehmen, kann man versuchen, einen Ersatz zu finden, es muss jedoch damit gerechnet werden, dass Kosten <strong>nicht</strong> oder nicht voll erstattet werden können.</li>
+<li>Die Eltern sind damit einverstanden, dass sich ihr Kind zeitweise in einer Kleingruppe in begrenztem Rahmen ohne Aufsicht aufhält.</li>
+<li>Die Teilnehmer verfassen bis 2 Wochen nach Abschluss des Austauschs einen Bericht.</li>
+<li>Die Austauschschüler verpflichten sich, an evtl. stattfindenden Vorbereitungstreffen teilzunehmen.</li>
+</ul>
+<p style="text-align: justify; line-height: normal;"><strong>2. Schulbetrieb<br /></strong></p>
+<ul>
+<li>Koordinatoren des Austauschs stellen gemäß Vertretungskonzept für die Zeit ihrer Abwesenheiten Vertretungsaufgaben für alle ihre Kurse.</li>
+<li>Kollegen vermeiden es, während des Austauschs Arbeiten und Tests zu schreiben.</li>
+<li>Fehlt in Kursen ein großer Prozentsatz an Schülern, plant der Fachlehrer eine Wiederholung des Unterrichtsstoffs ein bzw. verzichtet auf die Einführung eines neuen komplizierten Lernstoffes.</li>
+</ul>
+<ul>
+<li>Die Daten des Austauschs, Namen und Klassen der Teilnehmer müssen frühzeitig publik gemacht und per Mail ans Kollegium geschickt werden.</li>
+<li>Der Austausch sollte den allgemeinen Unterricht möglichst wenig stören.</li>
+<li>Gastschüler sollten max. zu 3 - 4 am Unterricht teilnehmen, aber nicht in Kursen, deren Sprache sie nicht verstehen. Die Fachkollegen sind über den Besuch frühzeitig zu informieren.</li>
+<li>Die Schüler sollten einen Raum als Treffpunkt zugewiesen bekommen, damit sie sich nicht lange in Pausenhalle oder Gängen aufhalten müssen.</li>
+<li>Der Austausch wird von den Verantwortlichen der Fahrt in die Übersicht über die Klassenarbeiten eingetragen, sobald die Daten feststehen.</li>
+<li>Um die Akzeptanz und das Kennenlernen zu fördern, wäre es nett, zu Abschiedsveranstaltungen Fachschaftskollegen oder andere interessierte Kollegen, Schüler oder Eltern einzuladen.</li>
+</ul>
+<p>(Stand 2014)</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 12pt;">Individueller Schüleraustausch</span></strong></p>
+<p><strong>Ansprechpartnerin</strong></p>
+<p><strong><img style="margin: 5px; float: left;" src="/images/Foto_Basisartikel_DOM.jpg" alt="Foto Basisartikel DOM" width="76" height="94" /></strong></p>
+<p><strong>Maike Domsel </strong>(Fächer: KR, F)</p>
+<p>(Koordinatorin individueller Schüleraustausch)</p>
+<p>&nbsp;</p>
+<p>Kontakt: <span id="cloak602052e1c05e09b4696a2a13a422900e">Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!</span><br /><br /></p>
+<p><strong>„Bin dann mal weg …“: Ein Schul(-halb)jahr im Ausland – so geht's!</strong></p>
+<p>In jedem Jahr nutzen Schülerinnen und Schüler am EMA die Möglichkeit, vornehmlich während des 9. Schuljahres oder der EF, im Ausland zu leben und zu lernen. Dieser Auslandsaufenthalt fördert nicht nur das sprachliche Vermögen der Kinder, sondern insbesondere ihre gesamte persönliche Entwicklung. Aus diesen Gründen wird an unserem Gymnasium ein längerer Auslandsaufenthalt mit Schulbesuch besonders unterstützt.</p>
+<p>Damit ein Schüler jedoch ein wirklich gelungenes Jahr im Ausland verbringen kann, muss vieles beachtet werden. Angefangen bei der Suche nach der passenden Organisation über die Koordination mit der Schule bis zu den Fragen nach der Finanzierung und dem richtigen Zeitpunkt – diverse Angelegenheiten müssen im Vorfeld geklärt werden. Hier finden Sie die wichtigsten Punkte:</p>
+<p><strong>Ziel und Voraussetzungen</strong></p>
+<ul>
+<li>Ziel: "Der Gewinn eines langen Aufenthaltes außerhalb unseres Landes liegt vielleicht weniger in dem, was wir über fremde Länder erfahren, sondern in dem, was wir dabei über uns selbst lernen." (Roger Peyrefitte, französischer Schriftsteller und Diplomat)</li>
+<li>Voraussetzungen: Mut, Motivation und Offenheit für das Leben in einer anderen Kultur</li>
+</ul>
+<p><strong>Gastland und Länge des Aufenthaltes</strong></p>
+<ul>
+<li>Es gibt Austauschprogramme in 50 Staaten<br />Wichtig für die Auswahl sind: z.B. Sprache, Schulsystem, Kultur, Wirtschaft, Politik etc.</li>
+<li>Dauer: Drei Monate, ein Jahr oder auch länger</li>
+</ul>
+<p><strong>Auswirkungen auf die schulische Laufbahn</strong></p>
+<ul>
+<li>Das erste Schulhalbjahr der Jahrgangsstufe 9 oder der Einführungsphase (Jgst. 10) eignet sich besonders gut, um 3-7 Monate im Ausland zu verbringen, da die Möglichkeit einer Anerkennung des Auslandsaufenthalts auf den Bildungsgang in Deutschland besteht. Das bedeutet, dass nach einem 3-7-monatigen Auslandaufenthalt die Schullaufbahn ohne Wiederholung fortgesetzt werden kann.</li>
+<li>Andere Regeln gelten, wenn der Schüler / die Schülerin z. B. zu einem anderen Zeitpunkt oder einer anderen Aufenthaltsdauer verreist. Dies wird vor allem dann relevant, wenn das Auslandsjahr in einem der Länder der Südhalbkugel (u.a. Australien, Neuseeland, Südafrika oder aber auch Japan) verbracht werden soll. Da dort die Schuljahre im Januar anfangen, ist das dann der beste Zeitpunkt für den Beginn des Auslandsaufenthalts.</li>
+<li>Zu beachten ist auch, dass für einige Fächer und Abschlüsse (wie z.B. Latein / Latinum) Sonderregelungen gelten. Setzen Sie sich ich in diesem Fall unbedingt rechtzeitig vorher mit Fachlehrern in Verbindung oder kontaktieren Sie den / die Fachschaftsvorsitzende/n des jeweiligen Faches an unserer Schule. Sie helfen in jedem Fall gerne weiter!</li>
+</ul>
+<p><strong>Kosten und Finanzierung</strong></p>
+<ul>
+<li>Kosten: ab 5000 Euro, Flug, Versicherung, Anmeldegebühr, Vor- und Nachbereitungsseminare, Visagebühren, Zusatzkosten (z.B. Schuluniform)</li>
+<li>Finanzierungsmöglichkeiten über Schüler-BAFög, Stipendien, Individuelle Förderung durch Firmen</li>
+</ul>
+<p><strong>Wie bekommen Schüler ein Stipendium für ein Auslandsjahr?</strong></p>
+<ul>
+<li>Austauschorganisationen AFS Interkulturelle Begegnungen und das Deutsche Youth For Understanding Komitee YFU für Auslandsaufenthalte in der Türkei und China. Unabhängig von der Kooperation mit Mercator bieten auch die Organisationen selbst Stipendien an.</li>
+<li>AFS beispielsweise bezuschusst je nach Einkommenssituation, familiärem Hintergrund oder Wunschland insgesamt 30 Prozent aller über die Organisation organisierten Schüleraustausche. YFU vergibt im Jahr rund 300 Stipendien - wenn sich der Bewerber den Schüleraustausch sonst nicht leisten könnte oder um den Austausch mit bestimmten Regionen, etwa Osteuropa, zu fördern. Auch das "Parlamentarische Patenschafts-Programm" des Bundestags finanziert politisch interessierten Schülern ein Jahr in den USA.  </li>
+<li>Darüber hinaus fördern private Organisationen, Firmen und teils die Kommunen die Horizonterweiterung von Schülern – wie etwas der Lions- oder der Rotary-Club.</li>
+<li>Eine Übersicht über verschiedene Stipendienprogramme sowie weitere Informationen zu Auslandsaufenthalten findet sich auch auf dieser Webseite der Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland. Auch auf dieser Webseite eines privaten Bildungsberatungsdienstes kann man nach Angeboten suchen.</li>
+</ul>
+<p><strong>Welche Organisation?</strong></p>
+<ul>
+<li>Idealerweise sollte ein Programm deshalb auch möglichst individuell abgestimmt sein. Denn je passender beispielsweise die Wahl des Umfelds – sprich der Gastfamilie, der Schule und der Umgebung mit ihren Freizeitangeboten -, umso leichter fällt die Integration und umso seltener wird das oft befürchtete Heimweh auftreten.</li>
+<li><strong>Wann sollte man sich bei den Organisationen bewerben?</strong></li>
+</ul>
+<p style="padding-left: 30px;">Das ist unterschiedlich. Einige Organisationen haben keinen bestimmten Bewerbungsschluss, andere geben ein Datum vor. Möchte man sich jedoch für ein Stipendium bewerben oder an einem bestimmten Programmangebot teilnehmen, sollte man sich mindestens ein Jahr vorher bei der Organisation bewerben. Im Übrigen schadet es nicht, sich sehr frühzeitig mit der Organisation in Verbindung zu setzen. Dort wird man dann genau erfahren, wann der richtige Zeitpunkt für die Bewerbung ist.</p>
+<ul>
+<li><strong>Merkmale einer guten Organisation und Bewerbungsverfahren</strong>: Möglichst individuelle Betreuung: z.B. Vor- und Nachbereitungsseminare, Informationsmaterial, Auswertungsgespräche, Betreuung vor Ort
+<ul>
+<li>Schriftliche Bewerbung und Gutachten eines Lehrers bzw. Empfehlungsschreiben, Einzel- / Gruppeninterview bei der Organisation</li>
+<li>Bewerbung: Das Bewerbungsgespräch sollte von geschultem Personal durchgeführt werden.</li>
+<li>Vorbereitung: Es sollte eine intensive Vorbereitung in Form eines mehrtätigen Seminars angeboten werden.</li>
+<li>Preise: Ein Vergleich ist sehr schwierig, weil bei einigen Anbietern vieles bereits im Preis enthalten ist, bei anderen Anbietern extra bezahlt werden muss.</li>
+<li>Anreise: Bei kleineren Organisationen müssen sich die Schüler oft selbst um die Anreise kümmern. Größere Organisationen bieten Gruppenflüge mit Reisebegleiter an.</li>
+<li>Viele Organisationen bieten sowohl Teil- als auch Vollstipendien an.</li>
+<li>Es gibt eine interessante Veröffentlichung von <a href="https://www.test.de/Auslandsjahr-Abenteuer-Ausland-1288777-0/">Stiftung Warentest aus dem Jahr 2005</a>, die sich mit diesem Thema eingehend befasst hat. Dort findet man neben den verschiedenen Organisationen auch Preise und Leistungen der Anbieter.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Schüleraustauschverbände und staatliche Austauschprogramme</strong></p>
+<ul>
+<li><strong>Verbände</strong>: DFH-Deutscher Fachverband High School e.V., AJA-Arbeitskreis gemeinnütziger Jugendaustauschorganisationen (Sechs gemeinnützige Austauschorganisationen haben sich unter einem Dachverband (AJA) zusammengeschlossen und verpflichten sich damit zur Einhaltung gemeinsamer Qualitätskriterien beim internationalen Jugendaustausch). Es sind diese (in alphabetischer Reihenfolge):
+<ul>
+<li>AFS Interkulturelle Begegnungen e.V.</li>
+<li>Deutsches Youth for Understanding Komitee e.V. (YFU)</li>
+<li>Experiment e.V.</li>
+<li>Open Door International e.V. (ODI)</li>
+<li>Partnership International e.V.</li>
+<li>Rotary Jugenddienst Deutschland e.V.</li>
+</ul>
+</li>
+<li><strong>Staatliche Austauschprogramme</strong>:</li>
+</ul>
+<p style="padding-left: 30px;">Parlamentarisches Partnerschaftsprogramm (PPP), Voltaire-Programm, Deutsch-Französisches Jugendwerk, German-American Partnership Program</p>
+<p><strong>Schulisches Prozedere</strong></p>
+<ul>
+<li>Initiales Ansprechen der Klassen- bzw. Stufenleitung, dann der Koordinatorin für Auslandsaufenthalte, schließlich Ansprechen der Schulleitung</li>
+<li>Ob der Auslandsaufenthalt für die Schullaufbahn anerkannt wird oder evtl. ein Schuljahr „wiederholt“ werden muss, hängt von mehreren Faktoren ab wie z. B.<br />• Leistungsstand<br />• Dauer und dem Zeitpunkt des Auslandsaufenthaltes<br />• Entscheidungsfindungen bei Zeugniskonferenzen und der Schulleitung</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Zur „allgemeinen“ Beruhigung:</strong> In vielen Ländern der Welt „verlieren“ die Jugendlichen durch einen längeren Auslandsaufenthalt entweder ein Schuljahr oder beginnen erst ein Jahr später mit dem Studium. Der Vorteil der Austauscherfahrung macht den Nachteil der zeitlichen Verzögerung jedoch mehr als wett!</p>
+<p>&nbsp;Ich freue mich auf euer/Ihr Interesse!</p>
+<p><strong>Maike Domsel</strong></p>
+<p>&nbsp;</p>
+<p><strong>Links:</strong></p>
+<p><a href="http://www.schueleraustausch-weltweit.de/">Infos zum Schüleraustausch</a></p>
+<p><a href="http://schueleraustausch-weltweit.de/links/schueleraustauschusa.htm">Liste der Austauschorganisationen (USA)</a></p>
+<p><a href="https://weltweiser.de/">Professionelle Hilfe bei der Planung eines Auslandaufenthaltes:</a></p>
+<p><a href="https://www.ausgetauscht.de/">Suchmaschine</a></p>
+<p><a href="https://www.assistscholars.de/">Assist</a></p>
+<p><a href="https://www.schulministerium.nrw.de/docs/Internationales/Schueleraustausch/index.html">Aktuelle Informationen des Schulministeriums zum Thema „Schüleraustausch“ auf der Homepage des Schulministeriums</a></p>
+<p><a href="http://www.brd.nrw.de/Schule_Internationaler_Austausch/index.jsp">Informationen über individuelle Austauschprogramme (Kanada, Neuseeland, Australien, Schweiz, Frankreich, Niederlande und Spanien (inkl. Stipendienangebote) sind zudem auf der Homepage der Bezirksregierung Düsseldorf zu finden</a></p>
+<p>&nbsp;</p>
+<p><strong>Literatur:</strong></p>
+<p><a href="https://www.amazon.de/gp/product/3935897154?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3935897154">Handbuch Fernweh: Der Ratgeber zum Schüleraustausch</a>.<br />Mit übersichtlichen Preis-Leistungs-Tabellen von Highschool-Programmen für 18 Gastländer</p>
+<p><a href="https://www.amazon.de/gp/product/3930902095?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3930902095">Ein Schuljahr in den USA 2009/2010: Austausch-Organisationen auf dem Prüfstand</a><br />Infos zu über 70 Anbietern</p>
+<p><a href="https://www.amazon.de/gp/product/3125614155?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3125614155">PONS Erste Hilfe Schüleraustausch USA und Kanada</a><br />Ankommen und klarkommen</p>
+<p><a href="https://www.amazon.de/gp/product/3125614147?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3125614147">PONS Schüleraustausch-Wegbegleiter Großbritannien und Irland</a><br />Ankommen und klarkommen</p>
+<p><a href="https://www.amazon.de/gp/product/3896622447?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3896622447">Als Gastschüler in den USA</a><br />Erfahrungen, Fakten und Informationen</p>
+<p><a href="https://www.amazon.de/gp/product/3934031846?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3934031846">Ein Schuljahr in Neuseeland</a><br />Gastschüler an einer neuseeländischen High-School</p>
+<p><a href="https://www.amazon.de/gp/product/3934031498?ie=UTF8&amp;tag=wwwseende-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=3934031498">Ein Schuljahr in Australien</a><br />Gastschüler an einer australischen High School</p>
+<p>&nbsp;</p>
+<p><strong>Dokumente zum Download:</strong></p>
+<p><a href="/images/Antrag_auf_Genehmigung_eines_Auslandsaufenthalts_gemäß-1.docx">Antrag auf Genehmigung eines Auslandsaufenthaltes</a></p>
+<p><a href="/images/Merkblatt_zum_Auslandsaufenthalt.pdf">Merkblatt zum Auslandsaufenthalt</a></p>
+<p><a href="/images/Merkblatt_zum_Erwerb_des_Latinum.pdf">Merkblatt zum Erwerb des Latinums</a></p>				</div>
+						
+					</div>
+										<div>
+									<h3 class="page-header item-title"><a href="/index.php/ueber-uns/foerderverein">
+				Förderverein</a>
+				
+										</h3>
+
+										<div class="category-desc">
+					<h3>Herzlich willkommen beim Verein der Freunde und Ehemaligen des Ernst-Moritz-Arndt-Gymnasiums Bonn e.V.</h3>				</div>
+						
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/service/neuigkeiten/167-neuigkeiten">
+				Neuigkeiten</a>
+				
+										</h3>
+
+									
+					</div>
+							<div>
+									<h3 class="page-header item-title"><a href="/index.php/service/neuigkeiten/170-karneval">
+				Karneval</a>
+				
+										</h3>
+
+									
+					</div>
+							<div class="last">
+									<h3 class="page-header item-title"><a href="/index.php/ags/menschenrechts-ag">
+				Menschenrechts-AG</a>
+				
+										</h3>
+
+									
+					</div>
+				 
+			</div>
+				</div>
+								</div>
+															</div>
+												</div>
+
+
+													</div>
+								</div>
+								</div>
+							</div>
+
+									<div id="jsn-leftsidecontent" class="span3 order1 offset-12">
+								<div id="jsn-leftsidecontent_inner">
+									<div id="jsn-pos-left">
+										<div class="box-3 box-blue jsn-icon-download jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Service</span></h3><div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menü</span>
+<ul class="menu-treemenu">
+<li  class="first"><a  href="/index.php/service/suche" >
+	<span>
+		Suche	</span>
+</a></li><li  class="current active parent"><a class="current" href="/index.php/service/neuigkeiten" >
+	<span>
+		Neuigkeiten	</span>
+</a><ul><li  class="first last"><a  href="/index.php/service/neuigkeiten/elternbriefe" >
+	<span>
+		Elternbriefe	</span>
+</a></li></ul></li><li ><a  href="/index.php/service/vertretung" >
+	<span>
+		Vertretungsplan	</span>
+</a></li><li ><a  href="/index.php/service/kalender" >
+	<span>
+		Kalender	</span>
+</a></li><li ><a  href="/index.php/service/klausur" >
+	<span>
+		Klausurplan	</span>
+</a></li><li ><a  href="/index.php/service/schulinterne-lehrplaene" >
+	<span>
+		schulinterne Lehrpläne	</span>
+</a></li><li ><a  href="/index.php/service/downloads" >
+	<span>
+		Downloads	</span>
+</a></li><li ><a  href="/index.php/service/praktikum" >
+	<span>
+		student. Praktikum	</span>
+</a></li><li ><a  href="/index.php/service/quarantaenemeldung" >
+	<span>
+		Quarantänemeldung	</span>
+</a></li><li ><a  href="/index.php/service/login" >
+	<span>
+		Login	</span>
+</a></li><li  class="last"><a  href="/index.php/service/kontakt-und-anfahrt" >
+	<span>
+		Kontakt und Anfahrt	</span>
+</a></li></ul><div class="clearbreak"></div></div></div></div>
+									</div>
+								</div>
+							</div>
+										</div>
+					</div>
+				</div>
+		</div>
+					<div id="jsn-footer">
+			<div id="jsn-footer-inner">
+									<div id="jsn-social-icons">
+						<ul>
+												<li class="facebook">
+								<a href="http://www.facebook.com/pages/Ernst-Moritz-Arndt-Gymnasium-Bonn/220470454673438" title="Facebook" target="_blank">
+									Facebook</a>
+							</li>
+												<li class="rss">
+								<a href="http://www.ema-bonn.de/index.php?option=com_content&view=category&layout=blog&id=111&Itemid=1533&format=feed&type=rss" title="RSS" target="_blank">
+									RSS</a>
+							</li>
+												<li class="myspace">
+								<a href="http://moodle.ema-bonn.de" title="MySpace" target="_blank">
+									MySpace</a>
+							</li>
+											</ul>
+					</div>
+								<div id="jsn-footermodules" class="jsn-modulescontainer jsn-modulescontainer1">
+												<div id="jsn-pos-bottom" class="row-fluid">
+								<div class=" jsn-modulecontainer span12"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p>Copyright &copy; 2014 by Ernst-Moritz-Arndt-Gymnasium, Bonn - <a href="/index.php/service/neuigkeiten/704-datenschutz">Datenschutz </a>- <a href="/index.php/service/neuigkeiten/350-impressum">Impressum</a> - <a href="/index.php/service/kontakt-und-anfahrt">Kontakt</a></p></div><div class="clearbreak"></div></div></div></div>
+							</div>
+									</div>
+			</div>
+		</div>
+			</div>
+	
+<script type="text/javascript">{"csrf.token":"db4958b909cecd61e1aabdb1b462b0a3","system.paths":{"root":"","base":""}}</script>
+<script src="/media/jui/js/jquery.min.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-noconflict.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/jui/js/jquery-migrate.min.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/k2/assets/js/k2.frontend.js?v=2.10.1&b=20191126&sitepath=/" type="text/javascript"></script>
+<script src="/media/system/js/mootools-core.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/system/js/core.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/system/js/mootools-more.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/system/js/modal.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/behaviour.js?v=6.1.0" type="text/javascript"></script>
+<script src="/media/system/js/caption.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/media/jui/js/bootstrap.min.js?58b8b001afe4a27f3165ff8adf174470" type="text/javascript"></script>
+<script src="/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+<script src="/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+<script src="/templates/jsn_metro_pro/js/jsn_template.js" type="text/javascript"></script>
+<script src="/plugins/system/jsntplframework/assets/3rd-party/cookieconsent/cookieconsent.js" type="text/javascript"></script>
+<script src="/libraries/videobox/js/videobox.bundle.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_metro_pro_",
+					templatePath			: "/templates/jsn_metro_pro",
+					enableRTL				: 0,
+					enableGotopLink			: 0,
+					enableMobile			: 1,
+					enableMobileMenuSticky	: 0,
+					enableDesktopMenuSticky	: 0,
+					responsiveLayout		: ["mobile","wide"],
+					mobileMenuEffect		: "default"
+				});
+			window.cookieconsent_options = {"learnMore":"","dismiss":"OK","message":"Diese Seite benutzt Cookies. Durch Klick auf \"OK\" sind Sie damit einverstanden.","link":null,"theme":"\/plugins\/system\/jsntplframework\/assets\/3rd-party\/cookieconsent\/styles\/light-floating.css"};
+	</script>
+<script type="text/javascript" src="https://idp.logineo.nrw.schule/logineo-nav.js"></script>
+<script type="text/javascript" src="https://idp.logineo.nrw.schule/idp/profile/Logineo/NavConfig?jsonp=window.navConfig&tenant=166250&currentService=home"></script>
+<script type="text/javascript">
+				document.getElementById('cloak7ccd885f48d475b7606154e7a275f49b').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy7ccd885f48d475b7606154e7a275f49b = 'b&#97;rb&#97;r&#97;.&#97;ltm&#97;nn' + '&#64;';
+				addy7ccd885f48d475b7606154e7a275f49b = addy7ccd885f48d475b7606154e7a275f49b + '&#101;m&#97;' + '&#46;' + 'nrw' + '&#46;' + 'sch&#117;l&#101;';
+				var addy_text7ccd885f48d475b7606154e7a275f49b = 'Fr&#97;&#117; Altm&#97;nn';document.getElementById('cloak7ccd885f48d475b7606154e7a275f49b').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy7ccd885f48d475b7606154e7a275f49b + '\'>'+addy_text7ccd885f48d475b7606154e7a275f49b+'<\/a>';
+		;
+
+				document.getElementById('cloakf11371072ab145dde1fabff3eeabf831').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf11371072ab145dde1fabff3eeabf831 = 'b&#105;rg&#105;tt.b&#97;rz' + '&#64;';
+				addyf11371072ab145dde1fabff3eeabf831 = addyf11371072ab145dde1fabff3eeabf831 + '&#101;m&#97;' + '&#46;' + 'nrw' + '&#46;' + 'sch&#117;l&#101;';
+				var addy_textf11371072ab145dde1fabff3eeabf831 = 'Fr&#97;&#117; B&#97;rz';document.getElementById('cloakf11371072ab145dde1fabff3eeabf831').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf11371072ab145dde1fabff3eeabf831 + '\'>'+addy_textf11371072ab145dde1fabff3eeabf831+'<\/a>';
+		;
+
+				document.getElementById('cloak5d0ee2996e72edab259c52f9125bad3d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5d0ee2996e72edab259c52f9125bad3d = '&#117;lr&#105;k&#101;.kr&#97;&#101;m&#101;r' + '&#64;';
+				addy5d0ee2996e72edab259c52f9125bad3d = addy5d0ee2996e72edab259c52f9125bad3d + '&#101;m&#97;' + '&#46;' + 'nrw' + '&#46;' + 'sch&#117;l&#101;';
+				var addy_text5d0ee2996e72edab259c52f9125bad3d = 'Fr&#97;&#117; Kr&auml;m&#101;r';document.getElementById('cloak5d0ee2996e72edab259c52f9125bad3d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5d0ee2996e72edab259c52f9125bad3d + '\'>'+addy_text5d0ee2996e72edab259c52f9125bad3d+'<\/a>';
+		;
+
+				document.getElementById('cloak602052e1c05e09b4696a2a13a422900e').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy602052e1c05e09b4696a2a13a422900e = 'm&#97;&#105;k&#101;.d&#111;ms&#101;l' + '&#64;';
+				addy602052e1c05e09b4696a2a13a422900e = addy602052e1c05e09b4696a2a13a422900e + '&#101;m&#97;' + '&#46;' + 'nrw' + '&#46;' + 'sch&#117;l&#101;';
+				var addy_text602052e1c05e09b4696a2a13a422900e = 'm&#97;&#105;k&#101;.d&#111;ms&#101;l' + '&#64;' + '&#101;m&#97;' + '&#46;' + 'nrw' + '&#46;' + 'sch&#117;l&#101;';document.getElementById('cloak602052e1c05e09b4696a2a13a422900e').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy602052e1c05e09b4696a2a13a422900e + '\'>'+addy_text602052e1c05e09b4696a2a13a422900e+'<\/a>';
+		</script></body>
+</html>
